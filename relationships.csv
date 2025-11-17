@@ -1,0 +1,5 @@
+fk_table,fk_column,pk_table,pk_column,relationship_type,notes
+vehicles,client_id,clients,client_id,one-to-many,Каждый автомобиль привязан к клиенту
+work_orders,vehicle_id,vehicles,vehicle_id,one-to-many,Заказ-наряд относится к конкретному автомобилю
+work_orders,mechanic_id,mechanics,mechanic_id,one-to-many,Механик выполняет заказ
+work_orders,service_id,services,service_id,one-to-many,Заказ содержит одну основную услугу
