@@ -1,4 +1,4 @@
-Mus_id,TrackTitle,Artist,Duration,Release Date,Plays
+Mus_id,TrackTitle,Artist,Duration,ReleaseDate,Plays
 1,Голуби,Дмитрий Колдун,2:52,45862,1584
 2,Сберегу,Эльбрус Джанмирзоев и Javani,3:27,45713,9120
 3,Буду тебя любить,Wellay,2:07,45765,206
@@ -97,4 +97,5 @@ Mus_id,TrackTitle,Artist,Duration,Release Date,Plays
 96,Я боюсь тебя,Тима Акимов,2:43,45745,2899
 97,Женщина-магнит,Артур Пирожков,3:08,45861,5403
 98,Заново,Денис Клявер, 2:20,45972,4222
+
 99,С добром,Татьяна Куртукова,2:45,45684,3336
